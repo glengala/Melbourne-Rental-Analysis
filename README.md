@@ -45,7 +45,7 @@ A comprehensive end-to-end data science project that preprocesses Melbourne-Metr
 Clone the repository
 
 ```python
-git clone https://github.com/yourusername/melbourne-rental-forecast.git
+git clone https://github.com/glengala/melbourne-rental-forecast.git
 cd melbourne-rental-forecast
 ```
 
